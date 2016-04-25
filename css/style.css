@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.test{
+    width: 200px;
+    height: 100px;
+    margin: 50px auto;
+    border: 1px solid red;
+}
